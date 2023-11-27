@@ -22,7 +22,7 @@
         {"key": "totalRecordsCount"}
     ],
     "leftColumn": 1,
-    "serverSidePagination": true,
+    "serverSidePagination": false,
     "enhancements": true,
     "children": [{
         "boxShadow": "{{appsmith.theme.boxShadow.appBoxShadow}}",

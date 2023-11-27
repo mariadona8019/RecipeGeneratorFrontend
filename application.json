@@ -5,7 +5,15 @@
       "isDefault": true
     },
     {
+      "id": "Create Recipe",
+      "isDefault": false
+    },
+    {
       "id": "Edit Recipe",
+      "isDefault": false
+    },
+    {
+      "id": "Delete Recipe",
       "isDefault": false
     }
   ],

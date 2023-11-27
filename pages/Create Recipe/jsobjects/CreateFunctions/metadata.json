@@ -1,0 +1,15 @@
+{
+  "unpublishedCollection": {
+    "name": "CreateFunctions",
+    "pageId": "Create Recipe",
+    "pluginId": "js-plugin",
+    "pluginType": "JS",
+    "actions": [],
+    "archivedActions": [],
+    "variables": [],
+    "userPermissions": []
+  },
+  "id": "Create Recipe_CreateFunctions",
+  "deleted": false,
+  "gitSyncId": "65648ff5bc8ab96ded87294f_6564fb06770538061e4c6f2c"
+}
